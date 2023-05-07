@@ -1,7 +1,7 @@
 # Hi :wave:
 
 
- I'm a second-year computer science student at Carleton University and enjoy development of any sort!
+ I'm a second-year computer science student at Carleton University and enjoy development of any sort.
  
 
  

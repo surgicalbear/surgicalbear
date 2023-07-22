@@ -11,7 +11,7 @@
 # Stats
 ![](https://komarev.com/ghpvc/?username=surgicalbear&color=lightgrey)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surgicalbear&show_icons=true&theme=discord_old_blurple) 
+
 
 
 

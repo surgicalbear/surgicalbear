@@ -6,7 +6,7 @@
 
  
 # Languages/Tools
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,js,react,html,css,github,git,neovim,idea,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,js,react,next,html,css,github,git,neovim,linux&perline=6)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=surgicalbear&color=lightgrey)
 

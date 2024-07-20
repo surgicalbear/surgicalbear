@@ -10,7 +10,7 @@
     [ contribute to open source ]</br>
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://status-svg.vercel.app/api/1149821961015402606">
-      <img src="https://status-svg.vercel.app/api/707743097488146524?lightMode=true" width="330">
+      <img src="https://status-svg.vercel.app/api/1149821961015402606?lightMode=true" width="330">
     </picture>
 </div>
 

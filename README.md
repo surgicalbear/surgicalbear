@@ -8,10 +8,9 @@
     planned:</br>
     [ create a plugin for <a href="https://github.com/neovim/neovim">neovim</a> ]</br>
     [ contribute to open source ]</br>
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://status-svg.vercel.app/api/1149821961015402606">
-      <img src="https://status-svg.vercel.app/api/1149821961015402606?lightMode=true" width="250">
-    </picture>
+  </p></samp>
+  </br>
+   <img src="https://github.com/surgicalbear/surgicalbear/blob/main/psyduck.gif" height=150/>
 </div>
 
 

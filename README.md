@@ -2,7 +2,7 @@
   <h3><samp><em> hi. </em></samp></h3>
   <p><samp>
     currently learning:</br>
-    [ Go, Zig ]</br>
+    [ Elixir ]</br>
     [ misc at school / work ]</br>
     </br>
     planned:</br>
